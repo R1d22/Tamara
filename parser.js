@@ -39,7 +39,7 @@ const defaultSizing = [
     'count',
   ]},
   {style: [
-    '',
+    'New',
     '',
     '',
     '',
